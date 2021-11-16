@@ -1,2 +1,2 @@
-# egg.financial 🥚
+# 🥚.financial 🥚
 
